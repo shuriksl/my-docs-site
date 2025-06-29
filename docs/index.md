@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Кото-API — Документация
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Добро пожаловать в документацию Кото-API — простого и наглядного сервера для взаимодействия с виртуальным котом через REST API.
 
-## Commands
+Здесь вы найдете описание доступных эндпоинтов для получения статуса кота, кормления, ласк и других действий.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+API построено с учетом стандартов OpenAPI, что позволяет удобно тестировать запросы через Swagger UI.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> **Важно:** Несмотря на кажущуюся простоту, кот может быть капризным — внимательно следите за ответами сервера и соблюдайте формат запросов.
+
+---
+
+Документация предназначена для разработчиков и инженеров, заинтересованных в изучении основ REST API на практике, а также для тех, кто просто любит котов и хочет «поговорить» с ними программно.
+
+---
+
+Перейдите в раздел Swagger для детального описания методов и примером запросов.

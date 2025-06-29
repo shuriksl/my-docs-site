@@ -1,3 +1,14 @@
 site_name: My Docs
 theme:
   name: material
+  logo: images/logo.png
+  favicon: images/favicon.png
+nav:
+  - Добро пожаловать: index.md
+  - Руководство:
+      - Введение: introduction.md
+      - Быстрый старт: quickstart.md
+      - Часто задаваемые вопросы: faq.md
+  - API справочник: dist/index.html
+
+ 
