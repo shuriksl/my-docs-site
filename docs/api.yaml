@@ -7,8 +7,10 @@ info:
   version: 1.0.0
 
 servers:
+  - url: https://cat-api-server-production.up.railway.app
+    description: Основной сервер (Railway)
   - url: https://cat-api-server.onrender.com
-    description: Основной сервер
+    description: Резервный сервер (Render)
 
 tags:
   - name: Приветствие
