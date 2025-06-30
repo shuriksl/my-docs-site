@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: My Cat API
 theme:
   name: material
   logo: images/logo.png
@@ -6,7 +6,6 @@ theme:
 nav:
   - Добро пожаловать: index.md
   - Руководство:
-      - Введение: introduction.md
       - Быстрый старт: quickstart.md
       - Часто задаваемые вопросы: faq.md
   - API справочник: dist/index.html

@@ -1,1 +1,0 @@
-[OAD(./swagger.yaml)]
